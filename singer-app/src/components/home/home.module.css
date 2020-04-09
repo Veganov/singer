@@ -1,0 +1,32 @@
+.content-wrapper {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  flex-direction: column;
+}
+
+h2.title {
+  top: 85%;
+  left: 3%;
+  z-index: 100;
+  color: white;
+  font-size: 3vw;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.header-image {
+  width: 100%;
+  z-index: 1;
+}
+
+.features {
+  background-color: #f3f3f3;
+}
+
+.profile-image {
+  min-width: 30rem;
+}
+
+.aboutContainer {
+  margin-bottom: -24px;
+}
